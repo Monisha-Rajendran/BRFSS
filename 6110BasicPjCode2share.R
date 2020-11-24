@@ -1,10 +1,4 @@
-# ALY6119 Big Data EDA
-# Group Members:
-# Catherine Richard
-# Monisha Rajendran
-# Akshit Bajaj
-# 
-# 
+
 #
 # Data source: 
 # Purpose: Exploratory Analysis of data
